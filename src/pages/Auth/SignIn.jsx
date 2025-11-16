@@ -81,7 +81,7 @@ export default function SignIn() {
           {loading ? "Signing in..." : "Sign In"}
         </button>
       </form>
-      <AuthTestButton />
+      
     </div>
   );
 }

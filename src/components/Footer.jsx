@@ -7,23 +7,23 @@ import { Link } from "react-router-dom";
 function IconTwitter() {
   return (
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden>
-      <path d="M23 3a10.9 10.9 0 01-3.14 1.53A4.48 4.48 0 0016.5 2a4.48 4.48 0 00-4.49 4.48c0 .35.04.7.12 1.03A12.72 12.72 0 013 4.1s-4 9 5 13a13 13 0 01-8 2c12 7 27 0 27-16.5v-.75A9.34 9.34 0 0023 3z" strokeLinecap="round" strokeLinejoin="round"/>
+      <path d="M23 3a10.9 10.9 0 01-3.14 1.53A4.48 4.48 0 0016.5 2a4.48 4.48 0 00-4.49 4.48c0 .35.04.7.12 1.03A12.72 12.72 0 013 4.1s-4 9 5 13a13 13 0 01-8 2c12 7 27 0 27-16.5v-.75A9.34 9.34 0 0023 3z" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
 }
 function IconFacebook() {
   return (
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden>
-      <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" strokeLinecap="round" strokeLinejoin="round"/>
+      <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
 }
 function IconInstagram() {
   return (
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden>
-      <rect x="3" y="3" width="18" height="18" rx="5" strokeLinecap="round" strokeLinejoin="round"/>
-      <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z" strokeLinecap="round" strokeLinejoin="round"/>
-      <path d="M17.5 6.5h.01" strokeLinecap="round" strokeLinejoin="round"/>
+      <rect x="3" y="3" width="18" height="18" rx="5" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M17.5 6.5h.01" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
 }
@@ -112,8 +112,8 @@ export default function Footer() {
             <div className="mt-6">
               <h5 className="text-xs text-slate-400 mb-2">Clinic partners</h5>
               <div className="flex items-center gap-2">
-                <img src="https://via.placeholder.com/80x28?text=MedCo" alt="medco" className="h-6 grayscale opacity-80" />
-                <img src="https://via.placeholder.com/80x28?text=Care+" alt="care" className="h-6 grayscale opacity-80" />
+                <img src="https://cdn.vectorstock.com/i/1000v/10/71/hospital-building-icon-vector-13881071.jpg" alt="medco" className="h-6 grayscale opacity-80" />
+                <img src="https://media.istockphoto.com/id/1396260353/vector/map-pointer-with-hospital-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=mkJwUNAVAI92GVxz_23gr23p6gmrocN9GnZhg_mBIr8=" alt="care" className="h-6 grayscale opacity-80" />
               </div>
             </div>
           </div>
