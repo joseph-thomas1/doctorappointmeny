@@ -7,3 +7,9 @@ html, body, #root { height: 100%; }
 body { @apply bg-gradient-to-b from-slate-50 to-white text-slate-900; }
 
 .container { @apply max-w-6xl mx-auto px-4; }
+body {
+    background-image: url('https://www.conexusmedstaff.com/wp-content/uploads/2024/07/shutterstock_1713091777-scaled.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
